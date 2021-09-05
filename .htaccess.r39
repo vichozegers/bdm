@@ -1,2 +1,0 @@
-php_value include_path ".:/usr/share/php/smarty3/libs/:/var/www/librerias_flr/:/usr/share/php/:/var/www/bdumovil_prueba/:/php/includes/"
-php_value max_execution_time 240 
